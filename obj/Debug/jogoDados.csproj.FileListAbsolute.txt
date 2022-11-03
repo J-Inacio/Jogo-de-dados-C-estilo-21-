@@ -1,0 +1,8 @@
+C:\Users\jinac\OneDrive\Documentos\SharpDevelop Projects\jogoDados\jogoDados\obj\Debug\jogoDados.csprojResolveAssemblyReference.cache
+C:\Users\jinac\OneDrive\Documentos\SharpDevelop Projects\jogoDados\jogoDados\obj\Debug\jogoDados.MainForm.resources
+C:\Users\jinac\OneDrive\Documentos\SharpDevelop Projects\jogoDados\jogoDados\obj\Debug\jogoDados.csproj.GenerateResource.Cache
+C:\Users\jinac\OneDrive\Documentos\SharpDevelop Projects\jogoDados\jogoDados\bin\Debug\jogoDados.exe.config
+C:\Users\jinac\OneDrive\Documentos\SharpDevelop Projects\jogoDados\jogoDados\bin\Debug\jogoDados.exe
+C:\Users\jinac\OneDrive\Documentos\SharpDevelop Projects\jogoDados\jogoDados\bin\Debug\jogoDados.pdb
+C:\Users\jinac\OneDrive\Documentos\SharpDevelop Projects\jogoDados\jogoDados\obj\Debug\jogoDados.exe
+C:\Users\jinac\OneDrive\Documentos\SharpDevelop Projects\jogoDados\jogoDados\obj\Debug\jogoDados.pdb
